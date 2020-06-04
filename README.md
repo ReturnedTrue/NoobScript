@@ -2,8 +2,8 @@
 A tiny programming language for noobs.
 
 # Installation 
-Go to 'Releases' and find the lastest release, install 'noob.exe'.
-Find your 'advanced system settings' -> 'environment variables' and add the exe as 'noob'.
+Go to 'Releases' and find the lastest release, install 'noob.exe'. <br />
+Find your 'advanced system settings' -> 'environment variables' and add the exe as 'noob'. <br />
 You're done! Now call noob yourfile.noob to execute!
 
 
@@ -15,4 +15,4 @@ You're done! Now call noob yourfile.noob to execute!
 * n00b() - make a string lowercase
 
 ## Datatypes
-* string - 'noob!'
+* string - "noob!"
